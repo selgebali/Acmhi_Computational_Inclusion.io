@@ -10,7 +10,7 @@ You might find similarities with resources such as the Awesome list, which is a 
 
 This resource provides advice and solutions for computational training events.
 
-  - [[Tools and infrastructure|tools-infrastructure.md]].
+  - [Tools and infrastructure](https://github.com/selgebali/computational-inclusion/wiki/tools-infrastructure.md).
   - [[Teaching/Learning models|teaching-learning-models.md]].
   - [[Teaching/Learning materials|teaching-learning-materials.md]].
   - [[Preparation and logisctics|logistics.md]].
