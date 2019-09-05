@@ -1,3 +1,4 @@
 - [Home](https://github.com/selgebali/computational-inclusion/wiki).
 - [Tools & Infrastructure](https://github.com/selgebali/computational-inclusion/wiki/tools-infrastructure.md).
 - [Teaching/learning models](https://github.com/selgebali/computational-inclusion/wiki/teaching-learning-models.md).
+- [Preparation and logistics.](https://github.com/selgebali/computational-inclusion/wiki/logistics.md).
