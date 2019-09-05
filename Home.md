@@ -11,9 +11,9 @@ You might find similarities with resources such as the Awesome list, which is a 
 This resource provides advice and solutions for computational training events.
 
   - [Tools and infrastructure](https://github.com/selgebali/computational-inclusion/wiki/tools-infrastructure.md).
-  - [[Teaching/Learning models|teaching-learning-models.md]].
-  - [[Teaching/Learning materials|teaching-learning-materials.md]].
-  - [[Preparation and logisctics|logistics.md]].
-  - [[Behavior/Conduct|conduct.md]].
+  - [Teaching/Learning models](https://github.com/selgebali/computational-inclusion/wiki/teaching-learning-models.md).
+  - [Teaching/Learning materials](https://github.com/selgebali/computational-inclusion/wiki/teaching-learning-materials.md).
+  - [Preparation and logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics.md).
+  - [Behavior/Conduct](https://github.com/selgebali/computational-inclusion/wiki/conduct.md).
 
 [Live wiki](https://docutopia.tupale.co/eLifeSprint19:teaching#).
