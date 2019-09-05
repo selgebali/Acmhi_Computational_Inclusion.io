@@ -2,3 +2,4 @@
 - [Tools & Infrastructure](https://github.com/selgebali/computational-inclusion/wiki/tools-infrastructure.md).
 - [Teaching/learning models](https://github.com/selgebali/computational-inclusion/wiki/teaching-learning-models.md).
 - [Preparation and logistics.](https://github.com/selgebali/computational-inclusion/wiki/logistics.md).
+- [Behavior and conduct](https://github.com/selgebali/computational-inclusion/wiki/conduct.md).
