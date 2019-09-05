@@ -14,6 +14,6 @@ This resource provides advice and solutions for computational training events.
   - [[Teaching/Learning models|teaching-learning-models.md]].
   - [[Teaching/Learning materials|teaching-learning-materials.md]].
   - [[Preparation and logisctics|logistics.md]].
-  - [[Behavior|conduct.md]].
+  - [[Behavior/Conduct|conduct.md]].
 
 [Live wiki](https://docutopia.tupale.co/eLifeSprint19:teaching#).
