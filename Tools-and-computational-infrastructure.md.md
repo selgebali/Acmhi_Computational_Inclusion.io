@@ -35,6 +35,8 @@ Also, while there is some overlap in the categories and the applications listed,
    - Google Sheets
    - [EtherCalc](https://ethercalc.org/)
    - Microsoft 360
+- Reference manager
+   - [Zotero](https://www.zotero.org/)
 - Computational notebooks, data visualization and storytelling
     - [Jupyter Project](https://jupyter.org/)
       - [BeakerX](http://beakerx.com/)
