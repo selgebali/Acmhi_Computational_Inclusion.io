@@ -1,4 +1,3 @@
-## Material & Methods
 ####               Know your Audience before choosing content, materials, and method of delivery.
 
 There are different modus operandi in teaching that can be adapted to the type of event and audience needs and resources. Tailoring the teaching session to the audience is crucial in ensuring the success of the event. 
