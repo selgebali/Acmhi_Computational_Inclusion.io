@@ -1,4 +1,4 @@
-## Preparation and logistics
+## Logistics
 
 
 * Do you have any technology that can make the sessions more accessible? i.e. HOH see google slides in google chrome adding captions in real life.
