@@ -17,7 +17,7 @@ This resource provides advice and solutions for computational training events.
   - [Tools and Computational Infrastructure](https://github.com/selgebali/computational-inclusion/wiki/Tools-and-computational-infrastructure)
   - [Materials & Methods](https://github.com/selgebali/computational-inclusion/wiki/Materials-and-Methods)
   - [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
-  - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/conduct)
+  - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/Behaviour-and-Conduct)
   - [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
 
 [Live wiki](https://docutopia.tupale.co/eLifeSprint19:teaching#)
