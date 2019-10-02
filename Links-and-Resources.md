@@ -3,6 +3,8 @@
    - 
 - Mozilla
    - 
-- AlanTuring
-   - Turing way
+
+- AlanTuring 
+   - The turing way
+
 ## **Manuals and Code of Conducts**
