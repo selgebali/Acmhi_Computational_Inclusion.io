@@ -15,7 +15,7 @@ You might find similarities with resources such as the Awesome list, which is a 
 This resource provides advice and solutions for computational training events.
 
   - [Tools and Computational Infrastructure](https://github.com/selgebali/computational-inclusion/wiki/Tools-and-computational-infrastructure)
-  - [Materials and Methods](https://github.com/selgebali/computational-inclusion/wiki/Materials-and-Methods)
+  - [Materials & Methods](https://github.com/selgebali/computational-inclusion/wiki/Materials-and-Methods)
   - [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
   - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/conduct)
   - [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
