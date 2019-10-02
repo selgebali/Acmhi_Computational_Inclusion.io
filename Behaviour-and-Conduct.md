@@ -1,4 +1,3 @@
-## Behaviour and conduct
 
 * What do you do when you begin the session? How you introduce yourself?
 * What can you do differently to invite your students to connect with you.
