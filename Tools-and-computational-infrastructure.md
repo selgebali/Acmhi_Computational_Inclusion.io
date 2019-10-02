@@ -7,20 +7,19 @@ Also, while there is some overlap in the categories and the applications listed,
 
 ####  Please also share any tools you might have used and/or found interesting, especially open-source tools. 
 
-- Chat-channels: Used for real-time communication.
-   Here you can share last advances and news, links.
-   - WhatsApp and similars:
+
+   - Instant messaging
      - [WhatsApp](https://www.whatsapp.com/)
      - [Matrix](http://matrix.org/)/[Riot](https://riot.im/)
      - [Telegram](http://telegram.org)
      - [Wire](https://wire.com/)
      - [Jami](https://jami.net/)
-   - Slack and similars:
+   - Digital workspace
      - [Slack](www.slack.com)
      - [MatterMost](https://mattermost.com/)
      - [Rocket Chat](rocket.chat)
      - [Zulip](https://zulipchat.com/)
-   - Video conference:
+   - Video conference
        - Google Hangouts
        - Zoom
        - Skype
@@ -33,18 +32,22 @@ Also, while there is some overlap in the categories and the applications listed,
    - Google Sheets
    - [EtherCalc](https://ethercalc.org/)
    - Microsoft 360
+
 - Reference manager
    - [Zotero](https://www.zotero.org/)
+
 - Note-taking To-Do list
    - [Joplin](https://joplinapp.org/)
+
 - Computational notebooks, data visualization, and storytelling
     - [Jupyter Project](https://jupyter.org/)
-      - [BeakerX](http://beakerx.com/)
+    - [BeakerX](http://beakerx.com/)
     - [Grafoscopio](http://mutabit.com/grafoscopio/index.en.html)
     - [Observable](http://observablehq.com/)
     - [The Gamma](https://thegamma.net/)
     - [Zeppeling](https://zeppelin.apache.org/)
     - [nteract](https://nteract.io/)
+
 - Quizzes and assessment
     - [Socrative](https://socrative.com)
     - [Kahoot](https://kahoot.com/)
@@ -52,18 +55,20 @@ Also, while there is some overlap in the categories and the applications listed,
     - [Mentimeter](https://www.mentimeter.com/)
     - [Sli.do](https://www.sli.do)
     - [Word clouds](https://www.menti.com)
-- Storage and data sharing:
+
+- Storage and data sharing
    - Google Drive
    - Dropbox
-     - [OwnCloud](https://owncloud.org/)
+   - [OwnCloud](https://owncloud.org/)
    - [Zenodo](https://zenodo.org/)
    - [Archive](https://archive.org/)
    - [BioRxiv](https://www.biorxiv.org/)
-- Presentations: 
+
+- Presentations
     - [Google Slides with captions](https://support.google.com/docs/answer/9109474?hl=en)
     - Slideshare
-- Pocket infrastructures 
 
+- Pocket infrastructures 
     - [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) 
     - [Pharo](https://pharo.org/)
     
