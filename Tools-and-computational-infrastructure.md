@@ -1,5 +1,3 @@
-## Tools and Computational Infrastructure 
-
 The choice of tools and infrastructure can be influenced by several factors, such as;
 data portability (transitioning the data from one environment to another), security and privacy, popularity and use, etc.
 
