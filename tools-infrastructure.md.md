@@ -61,7 +61,8 @@ Also, while there is some overlap in the categories and the applications listed,
     - [Google Slides with captions](https://support.google.com/docs/answer/9109474?hl=en)
     - Slideshare
 - Pocket infrastructures 
-    -[Fossil][https://fossil-scm.org/home/doc/trunk/www/index.wiki]  
-    -[Pharo][https://pharo.org/])
+
+    - [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) 
+    - [Pharo](https://pharo.org/)
     
-Pocket infrastructore offer simple, self-contained, online-offline availibility and a functional package manager instead of containers independant of operating system
+Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
