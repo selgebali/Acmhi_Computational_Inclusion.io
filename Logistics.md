@@ -1,7 +1,17 @@
+Check-list:
+- [ ] Bring Wifi router
+- [ ]  Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts
+- [ ] Use Sticky notes
 
-* Do you have any technology that can make the sessions more accessible? i.e. HOH see google slides in google chrome adding captions in real life.
-* Bring Wifi router
-* Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
 * Structure the sessions to allow for a minute of silence to allow for head rest every 20 mins.
 * If the audience is not engaging with the trainer, Encouraging discussions by having turn to their neighbour and talk for ~3 mins repeat
   - formative assessments to check for understanding, give the audience time to catch up
@@ -10,7 +20,7 @@
 * How would a member of your audience report any incidence of abuse?
 * How can we empower them to take charge of the material and learning experience to be able to teach it to someone else?
 * How do you gather feedback?
-* Use Sticky notes
+* 
 * Ice-breakers: 
     * Carpentries one https://carpentries.github.io/instructor-training/icebreakers/index.html
 * Encourage group work
