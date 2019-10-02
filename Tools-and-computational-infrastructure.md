@@ -5,7 +5,7 @@ We list the most popular tools in each category as a guide for the desired core 
  Before making a choice for one tool or the other, take into account the aforementioned differences between them (ie data portability or privacy respect, source code availability, etc).
 Also, while there is some overlap in the categories and the applications listed, some provide extended functionality and support over more specific ones (for example Zenodo o CKAN are more oriented towards data sharing than file sharing).
 
-####  Please also share any tools you might have used and/or found interesting. 
+####  Please also share any tools you might have used and/or found interesting, especially open-source tools. 
 
 - Chat-channels: Used for real-time communication.
    Here you can share last advances and news, links.
@@ -35,7 +35,9 @@ Also, while there is some overlap in the categories and the applications listed,
    - Microsoft 360
 - Reference manager
    - [Zotero](https://www.zotero.org/)
-- Computational notebooks, data visualization and storytelling
+- Note-taking To-Do list
+   - [Joplin](https://joplinapp.org/)
+- Computational notebooks, data visualization, and storytelling
     - [Jupyter Project](https://jupyter.org/)
       - [BeakerX](http://beakerx.com/)
     - [Grafoscopio](http://mutabit.com/grafoscopio/index.en.html)
