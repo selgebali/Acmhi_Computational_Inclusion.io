@@ -20,6 +20,7 @@ Also, while there is some overlap in the categories and the applications listed,
      - [MatterMost](https://mattermost.com/)
      - [Rocket Chat](rocket.chat)
      - [Zulip](https://zulipchat.com/)
+     - [FreeNode](https://freenode.net/)
    - Video conference
        - Google Hangouts
        - Zoom
