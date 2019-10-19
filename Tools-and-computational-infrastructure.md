@@ -14,6 +14,7 @@ Also, while there is some overlap in the categories and the applications listed,
      - [Telegram](http://telegram.org)
      - [Wire](https://wire.com/)
      - [Jami](https://jami.net/)
+     - [Gitter](https://gitter.im/)
    - Digital workspace
      - [Slack](www.slack.com)
      - [MatterMost](https://mattermost.com/)
