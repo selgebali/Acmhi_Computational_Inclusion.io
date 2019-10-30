@@ -28,55 +28,61 @@
 **Category X**:<br>
 
 🐼 Training and teaching someone else (i.e. train the trainer)<br>
-🐼 Socialising with other participants in safe space<br>
+🐼 Socializing with other participants in safe space<br>
 🐼 Patience + encouragement from mentors (for positive learning experience)<br>
 🐼 Feeling less intimidated<br>
-🤓 Encouragement for participation forex.( Freebies; if n amount of "pull requests” submitted)<br>
+🤓 Encouragement for participation forex. ( Freebies; if n amount of "pull requests” submitted)<br>
 🤓 Engaging with the audience to have their input on session design<br>
 🤓 Fun badges —> info about yourself, pronounce, stickers, etc…<br>
 🤓 Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)<br>
 
 **Conduct:** <br>
-Code of conduct + harassment reporting procedures <br>
-Use of language <br>
-🤓Having a person delegated to receive complaints about and take action regarding digressions from code of conduct
-🤓Language: <br>
-* 🤓simple & less technical <br>
-* 🤓“For Everyone” (both computational and non-computational backgrounds) <br>
+
+🐼 Code of conduct + harassment reporting procedures <br>
+🐼 Use of language <br>
+🤓 Having a person delegated to receive complaints about and take action regarding digressions from code of conduct <br>
+🤓 Language: <br>
+🤓 simple & less technical <br>
+🤓 “For Everyone” (both computational and non-computational backgrounds) <br>
 
 **Participant engagement:** <br>
-Learning by talking about my work to gain feedback
-Collaborative working i.e. sprints / hackathons 
-Learning from peers
+
+🐼 Learning by talking about my work to gain feedback <br>
+🐼 Collaborative working i.e. sprints/hackathons <br>
+🐼 Learning from peers<br>
 
 **Feedback driven learning:** <br>
-Learning by doing—> problem based
-Interactive learning rather than powerpoints
+
+🐼 Learning by doing—> problem based <br>
+🐼 Interactive learning rather than powerpoints <br>
 
 **Accessibility:** <br>
-Funding + support from senior researchers and sponsors
-Offering mentorship programs for community members
+
+🤓 Funding + support from senior researchers and sponsors <br>
+🤓 Offering mentorship programs for community members <br>
 
 **Community and continuity :** <br>
-Get to be exposed to the “ how to” of the event, how did we come up with the idea of the hackathon?
-Longevity and long term goals such as working in a community
-Be familiar with the audiences needs (e.g operating system) 
-Knowing the audience, sending survey to ask for their;
-Background
-Knowledge
-Expectations / expected outcome
 
-**Community building:**
-Collaboration with other communities (increase visibility both ways)
-Digital + visual promotion campaign 
-Visiting, physical meetings
-structure and leadership + several maintainers
-Support, working with allies + supporters
-Media; Facebook, Twitter hashtags to follow, Slack
-Use of tools for communication
-Common project / aim/ goal
-Social events, personal interactions, meetups
-Working alongside and bonding with similar like minded same stage/career level individuals
-Freedom + ownership too within teams and community
-Regular/ scheduled  video hangouts 
+🐼 Get to be exposed to the “ how-to” of the event, how did we come up with the idea of the hackathon? <br>
+🐼 Longevity and long term goals such as working in a community <br>
+🤓 Be familiar with the audiences needs (e.g operating system) <br>
+🤓 Knowing the audience, sending a survey to ask for their;<br>
+* Background<br>
+* Knowledge<br>
+* Expectations / expected outcome<br>
+
+**Community building:**<br>
+
+Collaboration with other communities (increase visibility both ways)<br>
+Digital + visual promotion campaign<br>
+Visiting, physical meetings <br>
+Structure and leadership + several maintainers<br>
+Support, working with allies + supporters<br>
+Media; Facebook, Twitter hashtags to follow, Slack<br>
+Use of tools for communication<br>
+Common project/aim/goal <br>
+Social events, personal interactions, meetups <br>
+Working alongside and bonding with similar like-minded same stage/career level individuals<br>
+Freedom + ownership too within teams and community<br>
+Regular/ scheduled video hangouts <br>
 
