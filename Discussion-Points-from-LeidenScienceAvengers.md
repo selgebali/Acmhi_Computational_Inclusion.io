@@ -36,28 +36,28 @@
 🤓 Fun badges —> info about yourself, pronounce, stickers, etc…<br>
 🤓 Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)<br>
 
-**Conduct:**
-Code of conduct + harassment reporting procedures 
-Use of language
-Having a person delegated to receive complaints about and take action regarding digressions from code of conduct
-Language;
-simple & less technical
-“For Everyone” (both computational and non-computational backgrounds)
+**Conduct:** <br>
+Code of conduct + harassment reporting procedures <br>
+Use of language <br>
+🤓Having a person delegated to receive complaints about and take action regarding digressions from code of conduct
+🤓Language: <br>
+* 🤓simple & less technical <br>
+* 🤓“For Everyone” (both computational and non-computational backgrounds) <br>
 
-Participant engagement:
+**Participant engagement:** <br>
 Learning by talking about my work to gain feedback
 Collaborative working i.e. sprints / hackathons 
 Learning from peers
 
-**Feedback driven learning:**
+**Feedback driven learning:** <br>
 Learning by doing—> problem based
 Interactive learning rather than powerpoints
 
-Accessibility:
+**Accessibility:** <br>
 Funding + support from senior researchers and sponsors
 Offering mentorship programs for community members
 
-Community and continuity :
+**Community and continuity :** <br>
 Get to be exposed to the “ how to” of the event, how did we come up with the idea of the hackathon?
 Longevity and long term goals such as working in a community
 Be familiar with the audiences needs (e.g operating system) 
@@ -66,7 +66,7 @@ Background
 Knowledge
 Expectations / expected outcome
 
-Community building:
+**Community building:**
 Collaboration with other communities (increase visibility both ways)
 Digital + visual promotion campaign 
 Visiting, physical meetings
