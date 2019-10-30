@@ -1,15 +1,13 @@
 🐼**Participants feedback ** <br>
-🤓**Organisers feedback ** <br>
+🤓**Organisers feedback **
 
-**Breaks**:
-🐼* Fika for better focus and experience
-🐼* Having a quite room +1 
-🤓* Breaks + logistics
+**Breaks**: <br />
+🐼* Fika for better focus and experience <br />
+🐼* Having a quite room +1 <br />
+🤓* Breaks + logistics <br />
 
-**Feedback**:
-🐼* Giving feedback anonymously 
-🐼* Being able to go back to the trainers beyond the training session with personal project Questions/queries
-🤓* Having detailed feedback survey
-🤓* Provide online space to ask questions + establish that it is safe to ask
-
-
+**Feedback**: <br />
+🐼* Giving feedback anonymously <br />
+🐼* Being able to go back to the trainers beyond the training session with personal project Questions/queries <br />
+🤓* Having detailed feedback survey <br />
+🤓* Provide online space to ask questions + establish that it is safe to ask <br />
