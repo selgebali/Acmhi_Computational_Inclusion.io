@@ -49,10 +49,7 @@ Learning by talking about my work to gain feedback
 Collaborative working i.e. sprints / hackathons 
 Learning from peers
 
-
-
-
-Feedback driven learning:
+**Feedback driven learning:**
 Learning by doing—> problem based
 Interactive learning rather than powerpoints
 
