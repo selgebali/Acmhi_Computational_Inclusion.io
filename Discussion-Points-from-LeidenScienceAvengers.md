@@ -42,8 +42,8 @@
 🐼 Use of language <br>
 🤓 Having a person delegated to receive complaints about and take action regarding digressions from code of conduct <br>
 🤓 Language: <br>
-🤓 simple & less technical <br>
-🤓 “For Everyone” (both computational and non-computational backgrounds) <br>
+* Simple & less technical <br>
+* Adapted for Everyone (both computational and non-computational backgrounds) <br>
 
 **Participant engagement:** <br>
 
