@@ -36,7 +36,7 @@
 🤓 Fun badges —> info about yourself, pronounce, stickers, etc…<br>
 🤓 Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)<br>
 
-Conduct:
+**Conduct:**
 Code of conduct + harassment reporting procedures 
 Use of language
 Having a person delegated to receive complaints about and take action regarding digressions from code of conduct
