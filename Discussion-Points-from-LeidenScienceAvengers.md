@@ -17,22 +17,24 @@
 🤓 Provide online space to ask questions + establish that it is safe to ask<br>
 
 
-Use of resources:
-Organised technical capacity for the topic
-Hearing loops/ captions
-Have materials available online
-Offer choice of alternative tools
-Having assistants helping out in the event, they should reflect diversity
+**Use of resources**:<br>
 
-Category X:
-Training and teaching someone else (i.e. train the trainer)
-Socialising with other participants in safe space
-Patience + encouragement from mentors (for positive learning experience)
-Feeling less intimidated 
-Encouragement for participation for ex.( Freebies; if n amount of "pull requests” submitted)
-Engaging with audience to have their input on session design
-Fun badges —> info about yourself, pronounce, stickers, etc…
-Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)
+🤓 Organized technical capacity for the topic <br>
+🤓 Hearing loops/captions <br>
+🤓 Have materials available online <br>
+🤓 Offer choice of alternative tools<br>
+🤓 Having assistants helping out in the event, they should reflect the diversity.<br>
+
+**Category X**:<br>
+
+🐼 Training and teaching someone else (i.e. train the trainer)<br>
+🐼 Socialising with other participants in safe space<br>
+🐼 Patience + encouragement from mentors (for positive learning experience)<br>
+🐼 Feeling less intimidated<br>
+🤓 Encouragement for participation forex.( Freebies; if n amount of "pull requests” submitted)<br>
+🤓 Engaging with the audience to have their input on session design<br>
+🤓 Fun badges —> info about yourself, pronounce, stickers, etc…<br>
+🤓 Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)<br>
 
 Conduct:
 Code of conduct + harassment reporting procedures 
@@ -46,6 +48,9 @@ Participant engagement:
 Learning by talking about my work to gain feedback
 Collaborative working i.e. sprints / hackathons 
 Learning from peers
+
+
+
 
 Feedback driven learning:
 Learning by doing—> problem based
