@@ -19,5 +19,6 @@ This resource provides advice and solutions for computational training events.
   - [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
   - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/Behaviour-and-Conduct)
   - [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
+  - [Discussion Points from LeidenScienceAvengers](https://github.com/selgebali/computational-inclusion/wiki/Discussion-Points-from-LeidenScienceAvengers)
 
 [Live wiki](https://docutopia.tupale.co/eLifeSprint19:teaching#)
