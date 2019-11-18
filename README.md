@@ -1,12 +1,11 @@
 Welcome to the computational-inclusion wiki!
 
-Group: Sara El-Gebali and Offray Vladimir Luna
 
-This project is an extension of the initial list of Do's and Don’ts in computational training, see Sara's [GitHub Repo](https://github.com/selgebali/CCMcr19_dos). The aim of this resource is to provide a compilation of advice, good practices, and tools collected from trainers and students in computational training events around the globe. 
+This project is an extension of the initial list of Do's and Don’ts in computational training, see  [GitHub Repo](https://github.com/selgebali/CCMcr19_dos). The aim of this resource is to provide a compilation of advice, good practices, and tools collected from trainers and students in computational training events around the globe. 
 
 The first edition of the list of Do's and Dont's was created with the input of Carpentry trainers during the [Carpentry Connect Manchester 2019](https://software.ac.uk/ccmcr19). 
 
-This edition is a joint effort by Sara and Offray during the [eLife Sprint 2019 in Cambridge UK (Sept, 4-5)](https://sprint.elifesciences.org/).
+The second edition is a joint effort by Sara and Offray during the [eLife Sprint 2019 in Cambridge UK (Sept, 4-5)](https://sprint.elifesciences.org/).
 
 This is part of an ongoing effort that aims to showcase and map the diversity of helpful approaches in computational training practices on a global scale.
 
