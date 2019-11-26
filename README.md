@@ -170,8 +170,7 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 ## Logistics <a name="Log"></a>
 ### Check-list
 
-  <ul>
-<li><input disabled="" type="checkbox">  Bring Wifi router </li> </ul>
+- [ ] Bring Wifi router
 - [ ] Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts
 - [ ] Use Sticky notes
 - [ ] Contingency plans in case the internet doesn't work
