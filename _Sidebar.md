@@ -1,7 +1,0 @@
-- [Home](https://github.com/selgebali/computational-inclusion/wiki)
-- [Tools and Computational Infrastructure](https://github.com/selgebali/computational-inclusion/wiki/Tools-and-computational-infrastructure)
-- [Materials & Methods](https://github.com/selgebali/computational-inclusion/wiki/Materials-and-Methods)
-- [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
-- [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/Behaviour-and-Conduct) 
-- [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
-- [Discussion Points from LeidenScienceAvengers](https://github.com/selgebali/computational-inclusion/wiki/Discussion-Points-from-LeidenScienceAvengers)
