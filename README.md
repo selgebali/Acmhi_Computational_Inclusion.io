@@ -48,6 +48,7 @@ If you are interested in surveying the digital landscape in your institute and/o
   - [Behavior & Conduct](#Behave)
   - [Links and Resources](#Links)
   - [Discussion Points from LeidenScienceAvengers](#Leiden)
+  - [Survey](#Survey)
 
 ## Tools and computational infrastructure <a name="Tools"></a>
 
@@ -341,3 +342,5 @@ Social events, personal interactions, meetups <br>
 Working alongside and bonding with similar like-minded same stage/career level individuals<br>
 Freedom + ownership too within teams and community<br>
 Regular/ scheduled video hangouts <br>
+
+# Survey
