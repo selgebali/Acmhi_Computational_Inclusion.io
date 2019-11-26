@@ -43,15 +43,14 @@ If you are interested in surveying the digital landscape in your institute and/o
 
 
   - [Tools and Computational Infrastructure](#Tools)
-  - [Materials & Methods](https://github.com/selgebali/computational-inclusion/wiki/Materials-and-Methods)
-  - [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
-  - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/Behaviour-and-Conduct)
-  - [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
-  - [Discussion Points from LeidenScienceAvengers](https://github.com/selgebali/computational-inclusion/wiki/Discussion-Points-from-LeidenScienceAvengers)
+  - [Materials & Methods](#MM)
+  - [Logistics](#Log)
+  - [Behavior & Conduct](#Behave)
+  - [Links and Resources](#Links)
+  - [Discussion Points from LeidenScienceAvengers](#Leiden)
 
 ## Tools and computational infrastructure <a name="Tools"></a>
 
-----
 The choice of tools and infrastructure can be influenced by several factors, such as;
 data portability (transitioning the data from one environment to another), security and privacy, popularity and use, etc.
 
@@ -130,4 +129,215 @@ Also, while there is some overlap in the categories and the applications listed,
     
 Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
 
+## Materials and Methods <a name="MM"></a>
+> Know your Audience before choosing content, materials, and method of delivery.
 
+There are different modus operandi in teaching that can be adapted to the type of event and audience needs and resources. Tailoring the teaching session to the audience is crucial in ensuring the success of the event. 
+Examples of training methods: 
+
+- Martial arts dojo; a form of peer learning where new learners interact and work together to accomplish some tasks, before moving on to work together with more experienced learners/trainers/training assistants/etc... This allows for an exchange of experiences across all levels. 
+
+- Classical classroom setting
+
+- Problem-based learning
+
+- Peer learning
+
+- [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
+
+- Ice-breakers
+
+Examples of other approaches integrated in and beyond the "classical" teaching methods; 
+
+  - [The Practice of Reproducible Research Case Studies and Lessons from the Data-Intensive Sciences](https://www.practicereproducibleresearch.org/)
+
+  - [Dear Data](https://www.dear-data.com/)
+
+  - Data Feminism: 
+    [Original](https://bookbook.pubpub.org/data-feminism) |
+    [Single source, multiformat output compiled copy](https://mutabit.com/repos.fossil/datafem/doc/tip/index.md.html)
+
+  - [Eat Cake](https://speakerdeck.com/minecr/let-them-eat-cake-first-14c0fcf0-4fe1-4e80-9c41-a7813e842538)
+
+  - Data Journalism Handbook: [Spanish](https://mutabit.com/repos.fossil/mapeda/)
+
+  - [Documentaton: técnicas y herramientas ágiles y resilientes para escribir y publicar juntos][documentaton] //
+    (Documentation: agile and resilient tools and techniques to write and publish together)
+
+[documentaton]: https://mutabit.com/repos.fossil/documentaton/doc/tip/intro-es.md.html
+
+## Logistics <a name="Log"></a>
+### Check-list
+
+- [ ] Bring Wifi router
+- [ ] Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts
+- [ ] Use Sticky notes
+- [ ] Contingency plans in case the internet doesn't work
+- [ ] Ask beforehand the food intolerances in case food is ordered
+- [ ] Bring extension leads
+- [ ] Locate and demonstrate fire escapes
+- [ ] Mention where the bathrooms are
+- [ ] Arrange with the organizers for a gender-neutral and disable access toilets
+- [ ] Ask the audience beforehand to mention disability requirements in an anonymous manner
+- [ ] Communicate plan for breaks
+- [ ] Check the room size, tables layout, and temperature
+- [ ] Check for power sockets
+- [ ] Be mindful of the audience conditions such as timezones, holidays, religious fasting, etc...
+- [ ] Ask about font size for presentations and especially for live coding
+- [ ] Be mindful of colors and contrast accessibility (black on light grey)
+- [ ] Screen visibility, avoid blocking parts of the screen
+- [ ] Use the microphone to connect to hearing loop
+- [ ] Bring co-trainers taking into account the number of participants
+- [ ] Have a gatekeeper to regulate discussions
+- [ ] Have a raisable table for live coding
+- [ ] Schedule practicals in the afternoon so people who have to leave early (e.g. childcare) can do this without missing too much and can catch up on their own time followed by catch up the morning after
+- [ ] Add Quizzes
+- [ ] Give access to materials beforehand
+- [ ] Structure the sessions to allow for a minute of silence, i.e. Brain-Break every 20 mins
+- [ ] If the audience is not engaging with the trainer, Encouraging discussions by having turn to their neighbor and talk for ~3 mins repeat
+
+- [ ]  Ice-breakers
+    * Carpentries one https://carpentries.github.io/instructor-training/icebreakers/index.html
+- [ ] Ask for Feedback anonymously!
+## Behaviour and Conduct <a name="Behave"></a>
+# TBC
+* What do you do when you begin the session? How you introduce yourself?
+* What can you do differently to invite your students to connect with you.
+* Use of language, triggers, show of support
+* Encourage participants to point out issues
+* Illustrate that you care and react to issues
+* Be careful of language and diction
+* Don't touch learners' keyboards
+* Be mindful of how you address the participants
+* Avoid using exclusionary phrases such as "you guys"
+- [ ] Check in with the audience at intervals as a form of assessment of their understanding and give them time to catch up.
+* How do you finish the session with your students?
+* Reflecting back on your session, what is the last thing you do not think about ?
+* How would a member of your audience report any incidence of abuse?
+* How can we empower them to take charge of the material and learning experience to be able to teach it to someone else?
+* How do you gather feedback?
+* Encourage group work
+* How do you come up with better solutions for groups with limited resources?
+* Which factors can be controlled and which can't be controlled but should be accounted for?
+* Weigh out the pros and cons of software setup local vs cloud
+* Material preparation and give access beforehand
+
+## Links and Resources <a name="Links"></a>
+
+## **Communities**
+- Carpentries
+   - 
+- Mozilla
+   - 
+
+- AlanTuring 
+   - The turing way
+
+## **Links**
+https://github.com/sindresorhus/awesome#readme
+
+https://github.com/a11yproject/a11yproject.com
+
+https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md
+
+https://github.com/westurner/wiki/wiki/accessibility
+
+https://github.com/numfocus/DISCOVER-Cookbook
+
+https://github.com/RConsortium/RCDI-WG
+
+https://github.com/folkswhocode/awesome-diversity
+
+https://github.com/confcodeofconduct/confcodeofconduct.com
+
+
+## **Manuals and Code of Conducts**
+
+## Discussion Points from LeidenScienceAvengers <a name="Leiden"></a>
+**Labels:**<br>
+
+🐼 **Participants feedback** <br>
+🤓 **Organisers feedback** <br>
+
+**Breaks**:<br>
+
+🐼  Fika for better focus and experience <br>
+🐼  Having a quite room +1 <br>
+🤓  Breaks + logistics <br>
+
+**Feedback**:<br>
+
+🐼 Giving feedback anonymously <br>
+🐼 Being able to go back to the trainers beyond the training session with personal project Questions/queries <br>
+🤓 Having detailed feedback survey <br>
+🤓 Provide online space to ask questions + establish that it is safe to ask<br>
+
+
+**Use of resources**:<br>
+
+🤓 Organized technical capacity for the topic <br>
+🤓 Hearing loops/captions <br>
+🤓 Have materials available online <br>
+🤓 Offer choice of alternative tools<br>
+🤓 Having assistants helping out in the event, they should reflect the diversity.<br>
+
+**Category X**:<br>
+
+🐼 Training and teaching someone else (i.e. train the trainer)<br>
+🐼 Socializing with other participants in safe space<br>
+🐼 Patience + encouragement from mentors (for positive learning experience)<br>
+🐼 Feeling less intimidated<br>
+🤓 Encouragement for participation forex. ( Freebies; if n amount of "pull requests” submitted)<br>
+🤓 Engaging with the audience to have their input on session design<br>
+🤓 Fun badges —> info about yourself, pronounce, stickers, etc…<br>
+🤓 Providing opportunities to contribute/brainstorm in a group (not asking questions by yourself or having to find others, like ice-breakers but on specific topics)<br>
+
+**Conduct:** <br>
+
+🐼 Code of conduct + harassment reporting procedures <br>
+🐼 Use of language <br>
+🤓 Having a person delegated to receive complaints about and take action regarding digressions from code of conduct <br>
+🤓 Language: <br>
+* Simple & less technical <br>
+* Adapted for Everyone (both computational and non-computational backgrounds) <br>
+
+**Participant engagement:** <br>
+
+🐼 Learning by talking about my work to gain feedback <br>
+🐼 Collaborative working i.e. sprints/hackathons <br>
+🐼 Learning from peers<br>
+
+**Feedback driven learning:** <br>
+
+🐼 Learning by doing—> problem based <br>
+🐼 Interactive learning rather than powerpoints <br>
+
+**Accessibility:** <br>
+
+🤓 Funding + support from senior researchers and sponsors <br>
+🤓 Offering mentorship programs for community members <br>
+
+**Community and continuity :** <br>
+
+🐼 Get to be exposed to the “ how-to” of the event, how did we come up with the idea of the hackathon? <br>
+🐼 Longevity and long term goals such as working in a community <br>
+🤓 Be familiar with the audiences needs (e.g operating system) <br>
+🤓 Knowing the audience, sending a survey to ask for their;<br>
+* Background<br>
+* Knowledge<br>
+* Expectations / expected outcome<br>
+
+**Community building:**<br>
+
+Collaboration with other communities (increase visibility both ways)<br>
+Digital + visual promotion campaign<br>
+Visiting, physical meetings <br>
+Structure and leadership + several maintainers<br>
+Support, working with allies + supporters<br>
+Media; Facebook, Twitter hashtags to follow, Slack<br>
+Use of tools for communication<br>
+Common project/aim/goal <br>
+Social events, personal interactions, meetups <br>
+Working alongside and bonding with similar like-minded same stage/career level individuals<br>
+Freedom + ownership too within teams and community<br>
+Regular/ scheduled video hangouts <br>
