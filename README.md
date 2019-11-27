@@ -170,8 +170,8 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 ## Logistics <a name="Log"></a>
 ### Check-list
 
-<input type="checkbox" name="fruit" value="a"> Bring Wifi router <br>
-<input type="checkbox" name="fruit" value="b"> Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts <br>
+<input type="checkbox"> Bring Wifi router <br>
+<input type="checkbox"> Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts <br>
 - [ ] Use Sticky notes
 - [ ] Contingency plans in case the internet doesn't work
 - [ ] Ask beforehand the food intolerances in case food is ordered
