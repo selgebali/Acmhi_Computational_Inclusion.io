@@ -1,4 +1,4 @@
-# Welcome to the computational-inclusion wiki!
+# Welcome to the computational-inclusion platform
 
 
 Many areas in academia have recently become increasingly data driven, producing an inexorable amount of data, which in turn has shifted the way we conduct research.
@@ -43,13 +43,14 @@ If you are interested in surveying the digital landscape in your institute and/o
 
 
   - [Tools and Computational Infrastructure](#Tools)
+   - [Survey](#Survey)
   - [Materials & Methods](#MM)
   - [Logistics](#Log)
   - [Behavior & Conduct](#Behave)
-  - [Links and Resources](#Links)
   - [Discussion Points from LeidenScienceAvengers](#Leiden)
-  - [Survey](#Survey)
-
+  - [Links and Resources](#Links)
+  - [Code of Conduct](#Code)
+ 
 ## Tools and computational infrastructure <a name="Tools"></a>
 
 The choice of tools and infrastructure can be influenced by several factors, such as;
@@ -129,6 +130,8 @@ Also, while there is some overlap in the categories and the applications listed,
     - [Pharo](https://pharo.org/)
     
 Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
+
+# Survey
 
 ## Materials and Methods <a name="MM"></a>
 > Know your Audience before choosing content, materials, and method of delivery.
@@ -223,36 +226,7 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 * Weigh out the pros and cons of software setup local vs cloud
 * Material preparation and give access beforehand
 
-## Links and Resources <a name="Links"></a>
 
-## **Communities**
-- Carpentries
-   - 
-- Mozilla
-   - 
-
-- AlanTuring 
-   - The turing way
-
-## **Links**
-https://github.com/sindresorhus/awesome#readme
-
-https://github.com/a11yproject/a11yproject.com
-
-https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md
-
-https://github.com/westurner/wiki/wiki/accessibility
-
-https://github.com/numfocus/DISCOVER-Cookbook
-
-https://github.com/RConsortium/RCDI-WG
-
-https://github.com/folkswhocode/awesome-diversity
-
-https://github.com/confcodeofconduct/confcodeofconduct.com
-
-
-## **Manuals and Code of Conducts**
 
 ## Discussion Points from LeidenScienceAvengers <a name="Leiden"></a>
 **Labels:**<br>
@@ -343,4 +317,33 @@ Working alongside and bonding with similar like-minded same stage/career level i
 Freedom + ownership too within teams and community<br>
 Regular/ scheduled video hangouts <br>
 
-# Survey
+## Links and Resources <a name="Links"></a>
+
+## **Communities**
+- Carpentries
+   - 
+- Mozilla
+   - 
+
+- AlanTuring 
+   - The turing way
+
+## **Links**
+https://github.com/sindresorhus/awesome#readme
+
+https://github.com/a11yproject/a11yproject.com
+
+https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md
+
+https://github.com/westurner/wiki/wiki/accessibility
+
+https://github.com/numfocus/DISCOVER-Cookbook
+
+https://github.com/RConsortium/RCDI-WG
+
+https://github.com/folkswhocode/awesome-diversity
+
+https://github.com/confcodeofconduct/confcodeofconduct.com
+
+
+## Code of Conduct <a name="Code"></a>
