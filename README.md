@@ -344,3 +344,6 @@ Freedom + ownership too within teams and community<br>
 Regular/ scheduled video hangouts <br>
 
 # Survey
+<input type="checkbox" name="fruit" value="apple"> Apple
+<input type="checkbox" name="fruit" value="orange" disabled> Orange 
+<input type="checkbox" name="fruit" value="banana"> Banana 
