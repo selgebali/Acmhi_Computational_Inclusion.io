@@ -172,34 +172,34 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 
 <input type="checkbox"> Bring Wifi router <br>
 <input type="checkbox"> Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts <br>
-- [ ] Use Sticky notes
-- [ ] Contingency plans in case the internet doesn't work
-- [ ] Ask beforehand the food intolerances in case food is ordered
-- [ ] Bring extension leads
-- [ ] Locate and demonstrate fire escapes
-- [ ] Mention where the bathrooms are
-- [ ] Arrange with the organizers for a gender-neutral and disable access toilets
-- [ ] Ask the audience beforehand to mention disability requirements in an anonymous manner
-- [ ] Communicate plan for breaks
-- [ ] Check the room size, tables layout, and temperature
-- [ ] Check for power sockets
-- [ ] Be mindful of the audience conditions such as timezones, holidays, religious fasting, etc...
-- [ ] Ask about font size for presentations and especially for live coding
-- [ ] Be mindful of colors and contrast accessibility (black on light grey)
-- [ ] Screen visibility, avoid blocking parts of the screen
-- [ ] Use the microphone to connect to hearing loop
-- [ ] Bring co-trainers taking into account the number of participants
-- [ ] Have a gatekeeper to regulate discussions
-- [ ] Have a raisable table for live coding
-- [ ] Schedule practicals in the afternoon so people who have to leave early (e.g. childcare) can do this without missing too much and can catch up on their own time followed by catch up the morning after
-- [ ] Add Quizzes
-- [ ] Give access to materials beforehand
-- [ ] Structure the sessions to allow for a minute of silence, i.e. Brain-Break every 20 mins
-- [ ] If the audience is not engaging with the trainer, Encouraging discussions by having turn to their neighbor and talk for ~3 mins repeat
+<input type="checkbox"> Use Sticky notes <br>
+<input type="checkbox"> Contingency plans in case the internet doesn't work <br>
+<input type="checkbox"> Ask beforehand the food intolerances in case food is ordered <br>
+<input type="checkbox"> Bring extension leads <br>
+<input type="checkbox"> Locate and demonstrate fire escapes <br>
+<input type="checkbox"> Mention where the bathrooms are <br>
+<input type="checkbox"> Arrange with the organizers for a gender-neutral and disable access toilets <br>
+<input type="checkbox"> Ask the audience beforehand to mention disability requirements in an anonymous manner <br>
+<input type="checkbox"> Communicate plan for breaks <br>
+<input type="checkbox"> Check the room size, tables layout, and temperature <br>
+<input type="checkbox"> Check for power sockets <br>
+<input type="checkbox"> Be mindful of the audience conditions such as timezones, holidays, religious fasting, etc... <br>
+<input type="checkbox"> Ask about font size for presentations and especially for live coding <br>
+<input type="checkbox"> Be mindful of colors and contrast accessibility (black on light grey) <br>
+<input type="checkbox"> Screen visibility, avoid blocking parts of the screen <br>
+<input type="checkbox"> Use the microphone to connect to hearing loop <br>
+<input type="checkbox"> Bring co-trainers taking into account the number of participants <br>
+<input type="checkbox"> Have a gatekeeper to regulate discussions <br>
+<input type="checkbox"> Have a raisable table for live coding <br>
+<input type="checkbox"> Schedule practicals in the afternoon so people who have to leave early (e.g. childcare) can do this without missing too much and can catch up on their own time followed by catch up the morning after <br>
+<input type="checkbox"> Add Quizzes <br>
+<input type="checkbox"> Give access to materials beforehand <br>
+<input type="checkbox"> Structure the sessions to allow for a minute of silence, i.e. Brain-Break every 20 mins <br>
+<input type="checkbox"> If the audience is not engaging with the trainer, Encouraging discussions by having turn to their neighbor and talk for ~3 mins repeat <br>
 
-- [ ]  Ice-breakers
-    * Carpentries one https://carpentries.github.io/instructor-training/icebreakers/index.html
-- [ ] Ask for Feedback anonymously!
+<input type="checkbox">  Ice-breakers <br>
+    * Carpentries one https://carpentries.github.io/instructor-training/icebreakers/index.html <br>
+<input type="checkbox">  Ask for Feedback anonymously! <br>
 ## Behaviour and Conduct <a name="Behave"></a>
 # TBC
 * What do you do when you begin the session? How you introduce yourself?
