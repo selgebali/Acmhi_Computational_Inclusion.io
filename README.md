@@ -43,7 +43,7 @@ If you are interested in surveying the digital landscape in your institute and/o
 
 
   - [Tools and Computational Infrastructure](#Tools)
-   - [Survey](#Survey)
+  - [Survey](#Survey)
   - [Materials & Methods](#MM)
   - [Logistics](#Log)
   - [Behavior & Conduct](#Behave)
@@ -131,7 +131,13 @@ Also, while there is some overlap in the categories and the applications listed,
     
 Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
 
-# Survey
+# Survey <a name="Survey"></a>
+
+https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion
+
+[Etherpad collaboration](<iframe name="embed_readwrite" src="https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>)
+
+
 
 ## Materials and Methods <a name="MM"></a>
 > Know your Audience before choosing content, materials, and method of delivery.
