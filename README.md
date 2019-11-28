@@ -379,7 +379,6 @@ https://github.com/confcodeofconduct/confcodeofconduct.com
 # Get in touch <a name="touch"></a>
 
 **Sara El-Gebali** <br>
-
 Twitter: @yalahowy <br>
 Mastodon: @selgebali <br>
 Riot: @yalahowy:matrix.org <br>
