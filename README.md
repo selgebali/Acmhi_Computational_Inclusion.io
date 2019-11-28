@@ -1,11 +1,9 @@
 # Welcome to the computational-inclusion platform
 
 
-Many areas in academia have recently become increasingly data driven, producing an inexorable amount of data, which in turn has shifted the way we conduct research.
+Many areas in academia have recently become increasingly data driven, producing an inexorable amount of data, which in turn has shifted the way we conduct research. Big data is produced in all stages of a research life cycle which necessitates different tools, platforms, workflows, applications, resources and computing skills spurring scientific advancement and innovation, along with a shift in societal and research norms towards openness.
 
-Big data produced in all stages of a research life cycle necessitate different tools, platforms, workflows, applications, resources and computing skills spurring scientific advancement and innovation, along with a shift in societal and research norms towards openness.
-
-Adopting core democratic open science values; such as access to knowledge and data sharing have centre-staged the big data debate. However, when we discuss open science practices, it is important to consider who is in the configuration/capacity of working openly and who is not. 
+It has therefore become the center stage of discussions within the big data debate, how to adopt and promote core democratic open science values; such as access to knowledge and data sharing. However, when we discuss open science practices, it is important to consider who is in the configuration/capacity of working openly and who is not. 
 
 The debate is geared towards addressing the needs and concerns of the "digitally rich” i.e those who generate big data and/or have the computational resources for data handling.  
 
@@ -17,7 +15,7 @@ This project intitally started as a list of Do's and Don’ts in computational t
 The first edition of the list of Do's and Dont's was created with the input of Carpentry trainers during the [Carpentry Connect Manchester 2019](https://software.ac.uk/ccmcr19). 
 
 
-The second edition is a joint effort by Sara and Offray during the [eLife Sprint 2019 in Cambridge UK (Sept, 4-5)](https://sprint.elifesciences.org/).
+The second edition is a joint effort by Sara and [Offray](https://github.com/offray) during the [eLife Sprint 2019 in Cambridge UK (Sept, 4-5)](https://sprint.elifesciences.org/).
 
 
 As a part of an ongoing effort this resource provides actionable advice, a list of tools and helpful approaches in computational training practices on a global scale. 
@@ -37,7 +35,7 @@ By gaining insight of the academic computational landscape in different environm
 
 This will aid in bringing together diverse communities with varied computational resources into adopting open science practices while empowering them through community building, inclusive training practices and adapted computational solutions.
 
-If you are interested in surveying the digital landscape in your institute and/or would like to know more about existing tools and resources that enhance computational inclusion in academic research, please feel free to join the discussion
+If you are interested in surveying the digital landscape in your institute and/or would like to know more about existing tools and resources that enhance computational inclusion in academic research, please feel free to join the [discussion](#Survey).
 
 # Table of Contents
 
