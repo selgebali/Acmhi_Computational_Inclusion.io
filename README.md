@@ -48,6 +48,7 @@ If you are interested in surveying the digital landscape in your institute and/o
   - [Discussion Points from LeidenScienceAvengers](#Leiden)
   - [Links and Resources](#Links)
   - [Code of Conduct](#Code)
+  - [Get in touch](#touch)
  
 ## Tools and computational infrastructure <a name="Tools"></a>
 
@@ -68,18 +69,20 @@ Also, while there is some overlap in the categories and the applications listed,
      - [Wire](https://wire.com/)
      - [Jami](https://jami.net/)
      - [Gitter](https://gitter.im/)
+     
    - Digital workspace
      - [Slack](www.slack.com)
      - [MatterMost](https://mattermost.com/)
      - [Rocket Chat](rocket.chat)
      - [Zulip](https://zulipchat.com/)
      - [FreeNode](https://freenode.net/)
+     
    - Video conference
        - Google Hangouts
        - Zoom
        - Skype
        - [Jitsi](https://jitsi.org/)
-
+       
 - Real-time documentation
    - [Etherpad](https://etherpad.org/)
    - [CodiMD](https://demo.codimd.org/)
@@ -87,6 +90,7 @@ Also, while there is some overlap in the categories and the applications listed,
    - Google Sheets
    - [EtherCalc](https://ethercalc.org/)
    - Microsoft 360
+   - [Overleaf](https://www.overleaf.com/)
 
 - Reference manager
    - [Zotero](https://www.zotero.org/)
@@ -106,10 +110,12 @@ Also, while there is some overlap in the categories and the applications listed,
 - Quizzes and assessment
     - [Socrative](https://socrative.com)
     - [Kahoot](https://kahoot.com/)
+    
 - Feedback and polling: 
     - [Mentimeter](https://www.mentimeter.com/)
     - [Sli.do](https://www.sli.do)
     - [Word clouds](https://www.menti.com)
+    - [Padlet](https://padlet.com/)
 
 - Storage and data sharing
    - Google Drive
@@ -128,6 +134,21 @@ Also, while there is some overlap in the categories and the applications listed,
     - [Pharo](https://pharo.org/)
     
 Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
+
+- Crowdsourcing
+  - [TopCoder](https://www.topcoder.com/)
+
+- Community building
+  - [Twitter](www.twitter.com)
+  - [Mastodon](https://mastodon.social/about)
+  
+- Other
+  - [Gigantum](https://gigantum.com/)
+  - [Ethical Alternatives & Resources](https://ethical.net/resources) 
+  - [Diversity Tickets- help events reach a more diverse audience](https://diversitytickets.org/)
+  - [Matomo-opensource web analytics](https://matomo.org/)
+  - 
+  
 
 # Survey <a name="Survey"></a>
 
@@ -205,6 +226,7 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 <input type="checkbox">  Ice-breakers <br>
     * Carpentries one https://carpentries.github.io/instructor-training/icebreakers/index.html <br>
 <input type="checkbox">  Ask for Feedback anonymously! <br>
+
 ## Behaviour and Conduct <a name="Behave"></a>
 # TBC
 * What do you do when you begin the session? How you introduce yourself?
@@ -216,7 +238,7 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 * Don't touch learners' keyboards
 * Be mindful of how you address the participants
 * Avoid using exclusionary phrases such as "you guys"
-- [ ] Check in with the audience at intervals as a form of assessment of their understanding and give them time to catch up.
+* Check in with the audience at intervals as a form of assessment of their understanding and give them time to catch up.
 * How do you finish the session with your students?
 * Reflecting back on your session, what is the last thing you do not think about ?
 * How would a member of your audience report any incidence of abuse?
@@ -329,8 +351,11 @@ Regular/ scheduled video hangouts <br>
 
 - AlanTuring 
    - The turing way
+   
+- [List of Diverse communities in tech](https://github.com/folkswhocode/awesome-diversity#organizations)
 
 ## **Links**
+
 https://github.com/sindresorhus/awesome#readme
 
 https://github.com/a11yproject/a11yproject.com
@@ -349,3 +374,17 @@ https://github.com/confcodeofconduct/confcodeofconduct.com
 
 
 ## Code of Conduct <a name="Code"></a>
+
+
+# Get in touch <a name="touch"></a>
+
+**Sara El-Gebali** <br>
+
+Twitter: @yalahowy <br>
+Mastodon: @selgebali <br>
+Riot: @yalahowy:matrix.org <br>
+Riot room: computational_inclusion:matrix.org <br>
+email: selgebali@gmail.com <br>
+
+
+
