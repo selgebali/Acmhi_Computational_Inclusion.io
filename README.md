@@ -134,7 +134,7 @@ Pocket infrastructure offer simple, self-contained, online-offline availability 
 # Survey <a name="Survey"></a>
 
 
-👏 [Etherpad collaboration](https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion) 👏
+👏 [Etherpad discussion space](https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion) 👏
 
 
 ## Materials and Methods <a name="MM"></a>
