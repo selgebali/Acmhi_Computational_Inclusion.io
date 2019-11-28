@@ -133,10 +133,7 @@ Pocket infrastructure offer simple, self-contained, online-offline availability 
 
 # Survey <a name="Survey"></a>
 
-https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion
-
-[Etherpad collaboration](<iframe name="embed_readwrite" src="https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>)
-
+:clap: [Etherpad collaboration](https://etherpad.wikimedia.org/p/Survey_2__Computational_Inclusion) :clap:
 
 
 ## Materials and Methods <a name="MM"></a>
